@@ -9,6 +9,18 @@ body {
 
 }
 
+#new{
+
+}
+
+.listing{
+  color:red;
+}
+
+.listing-parent{
+  
+}
+
 .container {
   display: block;
   width: 400px;
